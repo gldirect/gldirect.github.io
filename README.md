@@ -8,4 +8,7 @@ A URL-shortening service and a link management platform website.
 2. https://gldirect.github.io/lectures/genmath2023.html
 3. https://gldirect.github.io/lectures/precal2023.html
 ### Links
-1. https://gldirect.github.io/link/messenger.html
+1. https://gldirect.github.io/link/communistfiles.html
+2. https://gldirect.github.io/link/messenger.html
+3. https://gldirect.github.io/link/myreviewers.html
+4. https://gldirect.github.io/link/puremathfiles.html
